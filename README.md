@@ -1,4 +1,3 @@
-# Task-3_SQL_Data_Analysis-Elevate_labs
 # Task 3: SQL for Data Analysis
 
 ## Data Analyst Internship
